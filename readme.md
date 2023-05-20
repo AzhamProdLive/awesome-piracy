@@ -42,19 +42,19 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [Trackers](#trackers) ✔️
         - [Private Trackers](#private-trackers) ✔️
         - [Semi-Private Trackers](#semi-private-trackers) ✔️
-        - [Public Trackers](#public-trackers)
-    - [Tracker Aggregators](#tracker-aggregators)
-    - [Tracker Proxies](#tracker-proxies)
-    - [Tracker Invites](#tracker-invites)
-    - [Torrent Clients](#torrent-clients)
-    -   - [Deluge](#deluge)
-        - [rTorrent](#rtorrent)
-        - [WebTorrent Clients](#webtorrent-clients)
-    - [autodl-irssi](#autodl-irssi)
-    - [Seedboxes](#seedboxes)
-        - [Web-based Cloud Seedboxes](#web-based-cloud-seedboxes)
-        - [Seedbox Hosting Providers](#seedbox-hosting-providers)
-        - [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides)
+        - [Public Trackers](#public-trackers) ✔️
+    - [Tracker Aggregators](#tracker-aggregators) ✔️
+    - [Tracker Proxies](#tracker-proxies) ✔️
+    - [Tracker Invites](#tracker-invites) ✔️
+    - [Torrent Clients](#torrent-clients) ✔️
+    -   - [Deluge](#deluge) ✔️
+        - [rTorrent](#rtorrent) ✔️
+        - [WebTorrent Clients](#webtorrent-clients) ✔️
+    - [autodl-irssi](#autodl-irssi) ✔️
+    - [Seedboxes](#seedboxes) ✔️
+        - [Web-based Cloud Seedboxes](#web-based-cloud-seedboxes) ✔️
+        - [Seedbox Hosting Providers](#seedbox-hosting-providers) ✔️
+        - [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides) ✔️
     - [Tracker Frameworks](#tracker-frameworks)
 - [Usenet](#usenet)
     - [Usenet Providers](#usenet-providers)
@@ -330,10 +330,10 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 #### Public Trackers;
-- [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
+- [1337x](https://1337x.to/) :star2: 1337x is a torrent site that offers verified torrent downloads.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
-- [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
+- [RARBG](https://rarbg.to/) Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
@@ -345,7 +345,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
 - [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
-- [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
@@ -378,8 +377,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
-- [Butter Project](http://butterproject.org/) A legal fork of Popcorn Time which is configurable to allow for custom sources of video
-- [BitLord](http://www.bitlord.com/) Another BitTorrent streaming client
 - [Tixati](https://tixati.com/) Lightweight torrent client for Windows and Linux
 - [PicoTorrent](https://picotorrent.org/) A lightweight and minimalistic torrent client for Windows
 - [FrostWire](https://www.frostwire.com/) FrostWire is a Free and open-source BitTorrent client first released in September 2004, as a fork of LimeWire.
@@ -402,21 +399,18 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [rutorrent-themes](https://github.com/InAnimaTe/rutorrent-themes) A collection of default and new, original themes for ruTorrent.
 - [flood](https://github.com/jfurrow/flood) A web UI for rTorrent with a Node.js backend and React frontend.
 - [rTorrent ArchWiki Page](https://wiki.archlinux.org/index.php/RTorrent) Detailed article to answer most common questions about rTorrent
-- [rTorrent Seedbox Guide](https://jes.sc/kb/rTorrent-ruTorrent-Seedbox-Guide.php) This guide is a single-page, comprehensive guide to take you step-by-step through installation and configuration.
 - [rtorrent-ps](https://github.com/pyroscope/rtorrent-ps) Extended rTorrent distribution with a fully customizable canvas and colors, other feature additions, and complete docs.
 - [pyrocore](https://github.com/pyroscope/pyrocore) A collection of tools for the BitTorrent protocol and especially the rTorrent client
 - [rTorrent research](https://calomel.org/rtorrent_mods.html) security modifications and other hacks for usability
 - [rutorrent-all-seeders](https://github.com/AkdM/rutorrent-all-seeders) This ruTorrent plugin adds the columns 'All Seeders' to the torrents list.
 
 #### WebTorrent Clients
-- [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
 - [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
 
 ### autodl-irssi
 - [autodl-irssi](https://autodl-community.github.io/autodl-irssi/) autodl-irssi is a plugin for irssi that monitors IRC announce channels for torrent trackers and downloads torrent files based on user-defined filters.
-- [autodl-curl-sonarr](https://github.com/Zymest/autodl-curl-sonarr) Script to use as upload-command for autodl-irssi to post to Sonarr
 - [mreg](https://github.com/Igglybuff/mreg) Generates a "Match releases" expression for your autodl-irssi filter based on dvdsreleasedates.com's "Most Requested DVD Release Dates" section.
 - [Slack notifications for autodl-irssi](https://gist.github.com/Igglybuff/00d5e91274a562ac724d358bbbc8bc7b) Guide by yours truly on enabling Slack notifications for autodl-irssi
 
@@ -426,31 +420,21 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 #### Web-based Cloud Seedboxes
 - [Seedr](https://www.seedr.cc/) Essentially a seedbox you can paste torrents into which returns a streamable direct link
-- [ZXCFiles](http://www.zxcfiles.net) A similar service that allows you to paste magnet links or upload torrent files and get a DDL. The first 20GB are free.
 - [Bitport.io](https://bitport.io/) Another direct download site for pasting magnet links or .torrent files. Free accounts offer 1GB for free.
 - [Torrent Safe](https://www.torrentsafe.com/) Free plan includes 1GB max file size, 2 days file lifetime. Discounts for paid subscriptions pop up on their [Facebook page](https://www.facebook.com/TorrentSafe/)
 - [Furk.net](https://www.furk.net/) Free trial offers 1GB per day or 5GB per week if you can get an invite/voucher or use Facebook
-- [FileStream.me](https://filestream.me/) The free subscription offers 200Mb max file size and 200GB storage total
-- [2Giga.link](https://www.2giga.link/)
-- [Foxleech](https://www.foxleech.com/) No free trial, plans start at $3 per month
-- [Boxopus](https://boxopus.com/) No free trial, plans start at $0.99 per day
 - [Put.io](https://put.io/) $0.99 1 day trial
 - [Put.io automator](https://github.com/datashaman/putio-automator) A suite of commands for managing torrents, transfers, and files on Put.IO
 
 #### Seedbox Hosting Providers
-- [novaDedi](https://novadedi.net/index.php) novaDedi formerly known as metaDedi was created to help to find you the cheapest dedicated server for your intended use case.
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
-- [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
-- [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
 - [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
 - [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
-- [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
-- [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
 - [Xirvik](https://www.xirvik.com/) Preconfigured seedbox servers
 - [OVH](https://www.ovh.com/world/) Large cloud server provider
 - [SoYouStart](https://www.soyoustart.com/us/) Another dedicated server host
@@ -468,7 +452,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [MediaServer-DockerComposeFiles](https://github.com/vaeyo/MediaServer-DockerComposeFiles) Docker-Compose Files for Media Server Related Apps [Radarr, Sonarr, Plex, rTorrent, NZBGet, Ombi, Emby, etc]
 - [usenet-docker](https://github.com/justinhamlett/usenet-docker) Docker-compose configuration for Sabnzbd, CouchPotato, Plex, Sonarr, Plexpy, Nzbhydra, Muximux, Radarr, NZBGet and Ombi with an Nginx proxy.
 - [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) DockSTARTer helps you get started with home server apps running in Docker.
-- [OpenFLIXR](http://www.openflixr.com/) OpenFLIXR Media Server is an all-in-one media server for automated downloading and serving media.
 
 ### Tracker Frameworks
 - [Torrent-Tracker-Platforms](https://github.com/HDVinnie/Torrent-Tracker-Platforms) A Curated List Of Torrent Tracker Platforms/Codebases Written In Multiple Coding Languages
