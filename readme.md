@@ -2,7 +2,8 @@
 
 > A curated list of arrrrrrrrr!
 ## DISCLAIMER ! 
-This list is a fork of the already existing thread from "Igglybuff/awesome-piracy", I forked it in order to remove deadlinks, add more links and remove the shady stuff from it. YOU CAN FORK THIS FORK TOO, I don't mind getting forked for people to edit it... *that sounded so weird wtf*
+This list is a fork of the already existing thread from "Igglybuff/awesome-piracy", I forked it in order to remove deadlinks, add more links and remove the shady stuff from it. YOU CAN FORK THIS FORK TOO, I don't mind getting forked for people to edit it... *that sounded so weird wtf* 
+Every ✔️ next to the category means that I checked and removed the dead/sussy links, and it's a way for me to keep track of what I did.
 
 ## Preamble
 Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
@@ -23,24 +24,24 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [Wikipedia "File sharing" category](https://en.wikipedia.org/wiki/Category:File_sharing) Wikipedia's full list of file-sharing related articles.
 
 ## Contents
-- [VPNs](#vpns)
-    - [VPN Guides and Tutorials](#vpn-guides-and-tutorials)
-    - [VPN Subscription Services](#vpn-subscription-services)
-    - [Self-hosted VPNs](#self-hosted-vpns)
-- [Browser Extensions](#browser-extensions)
-- [Userscripts](#userscripts)
-- [Password Vaults](#password-vaults)
-- [Antivirus](#antivirus)
-- [Privacy](#privacy)
-    - [Windows 10 Privacy](#windows-10-privacy)
-- [Email](#email)
-- [Operating Systems](#operating-systems)
-- [Decentralised Networks](#decentralised-networks)
-- [Domain Names](#domain-names)
-- [Torrenting](#torrenting)
-    - [Trackers](#trackers)
-        - [Private Trackers](#private-trackers)
-        - [Semi-Private Trackers](#semi-private-trackers)
+- [VPNs](#vpns) ✔️
+    - [VPN Guides and Tutorials](#vpn-guides-and-tutorials) ✔️
+    - [VPN Subscription Services](#vpn-subscription-services) ✔️
+    - [Self-hosted VPNs](#self-hosted-vpns) ✔️
+- [Browser Extensions](#browser-extensions) ✔️
+- [Userscripts](#userscripts) ✔️
+- [Password Vaults](#password-vaults) ✔️
+- [Antivirus](#antivirus) ✔️
+- [Privacy](#privacy) ✔️
+    - [Windows 10 Privacy](#windows-10-privacy) ✔️
+- [Email](#email) ✔️
+- [Operating Systems](#operating-systems) ✔️
+- [Decentralised Networks](#decentralised-networks) ✔️
+- [Domain Names](#domain-names) ✔️
+- [Torrenting](#torrenting) ✔️
+    - [Trackers](#trackers) ✔️
+        - [Private Trackers](#private-trackers) ✔️
+        - [Semi-Private Trackers](#semi-private-trackers) ✔️
         - [Public Trackers](#public-trackers)
     - [Tracker Aggregators](#tracker-aggregators)
     - [Tracker Proxies](#tracker-proxies)
