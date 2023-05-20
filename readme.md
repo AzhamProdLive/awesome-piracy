@@ -1,6 +1,8 @@
 # Awesome Piracy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of arrrrrrrrr!
+## DISCLAIMER ! 
+This list is a fork of the already existing thread from "Igglybuff/awesome-piracy", I forked it in order to remove deadlinks, add more links and remove the shady stuff from it. YOU CAN FORK THIS FORK TOO, I don't mind getting forked for people to edit it... *that sounded so weird wtf*
 
 ## Preamble
 Over the past couple of years, I've accumulated bookmarks, saved Reddit posts, and GitHub stars all related to piracy in some form or another. This list is my attempt to add structure to those resources and share them. Everything you need to get started on your pirate voyage can be found below.
