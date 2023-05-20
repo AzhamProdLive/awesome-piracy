@@ -55,21 +55,21 @@ You will notice some items on this list have a :star2: next to them. Items with 
         - [Web-based Cloud Seedboxes](#web-based-cloud-seedboxes) ✔️
         - [Seedbox Hosting Providers](#seedbox-hosting-providers) ✔️
         - [Seedbox Setup Tools and Guides](#seedbox-setup-tools-and-guides) ✔️
-    - [Tracker Frameworks](#tracker-frameworks)
-- [Usenet](#usenet)
-    - [Usenet Providers](#usenet-providers)
-    - [Usenet Indexers](#usenet-indexers)
-        - [Usenet Indexing Software](#usenet-indexing-software)
-        - [Paid Indexers](#paid-indexers)
-        - [Free Indexers](#free-indexers)
-    - [Usenet Clients](#usenet-clients)
-- [Direct Downloads](#direct-downloads)
-    - [Download Managers](#download-managers)
-    - [DDL Tools](#ddl-tools)
-    - [Custom Google Search Engines](#custom-google-search-engines)
-    - [FTP Indexers](#ftp-indexers)
-    - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers)
-    - [DDL Link Sites](#ddl-link-sites)
+    - [Tracker Frameworks](#tracker-frameworks) ✔️
+- [Usenet](#usenet) ✔️
+    - [Usenet Providers](#usenet-providers) ✔️
+    - [Usenet Indexers](#usenet-indexers) ✔️
+        - [Usenet Indexing Software](#usenet-indexing-software) ✔️
+        - [Paid Indexers](#paid-indexers) ✔️
+        - [Free Indexers](#free-indexers) ✔️
+    - [Usenet Clients](#usenet-clients) ✔️
+- [Direct Downloads](#direct-downloads) ✔️
+    - [Download Managers](#download-managers) ✔️
+    - [DDL Tools](#ddl-tools) ✔️
+    - [Custom Google Search Engines](#custom-google-search-engines) ✔️
+    - [FTP Indexers](#ftp-indexers) ✔️
+    - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers) ✔️
+    - [DDL Link Sites](#ddl-link-sites) ✔️
     - [Premium Link Generators](#premium-link-generators)
     - [Premium Link Hosts](#premium-link-hosts)
     - [Open Directories](#open-directories)
@@ -499,7 +499,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [omgwtfnzbs](https://omgwtfnzbs.me/login) Invite-only NZB indexer with a funny name.
 
 #### Free Indexers
-- [6box](https://6box.me/) :star2: A recently revived free Usenet indexing service with a generous API
 - [Usenet Crawler](https://usenet-crawler.com/) Usenet indexer with API access for registered users
 - [NZBIndex](https://www.nzbindex.com) The first free Usenet indexer you find in your Google search results
 - [Binsearch](https://www.binsearch.info/) With this site you can search and browse binary Usenet newsgroups.
@@ -527,13 +526,11 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Xtreme Download Manager](https://subhra74.github.io/xdm/#) Xtreme Download Manager is a tool that claims to increase download speeds by up to 500%.
 - [Plowshare](https://github.com/mcrapet/plowshare) Command-line tool and engine for managing sharing websites
 - [FreeDownloadManager](https://www.freedownloadmanager.org/) FDM can boost all your downloads up to 10 times, process media files of various popular formats, drag & drop URLs right from a web browser as well as simultaneously download multiple files! Compatible with  Google Chrome, Mozilla Firefox, Microsoft Edge, Internet Explorer and Safari
-- [EagleGet](http://www.eagleget.com/) EG is a free all-in-one download manager, lightweight and fast, supports all popular browsers and downloads from many streaming services, a perfect alternative to IDM.
 
 ### DDL Tools
 - [youtube-dl](https://youtube-dl.org/) :star2: youtube-dl is a command-line program to download videos from YouTube.com and a few more sites.
 - [youtube-dl-gui](https://mrs0m30n3.github.io/youtube-dl-gui/) A cross-platform front-end GUI of the popular youtube-dl written in wxPython
 - [youtube-dl-helper](https://youtube-dl-helper.github.io/) Uses youtube-dl to download video/audio from many sites without requiring you to use the command-line (for Windows)
-- [YouTube MP3 Rip](https://ytmp3.cc/en9/) Download YouTube music videos as MP3 files without registration
 - [Leonflix](https://leonflix.net/) :star2: A multi-platform desktop app for finding movies and TV shows.
 - [maulvi.github.io](https://maulvi.github.io/) Google Drive direct download link generator
 - [RapidLeech](https://github.com/Th3-822/rapidleech) a free server transfer script for use on various popular upload/download sites such as uploaded.net, Rapidgator.net, and more than 127 others.
@@ -552,7 +549,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [get_iplayer](https://github.com/get-iplayer/get_iplayer) A utility for downloading TV and radio programmes from BBC iPlayer
 - [MEGAsync](https://mega.nz/sync) Easily automated synchronisation between your computer and your MEGA account. Can stream Mega videos directly.
 - [wget](https://www.gnu.org/software/wget/) `wget` is a free and open-source tool for downloading files using HTTP, HTTPS, FTP, and FTPS. It can be easily called from scripts, cronjobs, terminals without X-Windows support, etc.
-- [wget - a noob's guide](https://the-eye.eu/public/Wget_Linux_Guide.pdf) Beginner guide on how to use `wget`.
 - [wget for Windows](https://eternallybored.org/misc/wget/) A command-line utility for retrieving files using HTTP, HTTPS, and FTP protocols.
 - [curl](https://en.wikipedia.org/wiki/CURL) `curl` is a command-line tool for downloading data using a variety of protocols. Easily installable on most operating systems.
 - [FlixGrab](https://www.flixgrab.com/) FlixGrab+ is a unique application for downloading entire NetFlix serials, TV shows, documentaries, movies.
@@ -560,8 +556,6 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 ### Custom Google Search Engines
 - These all do the same thing:
-    - [FileChef](http://filechef.com/)
-    - [The Eye CGS Engine](https://cgs.the-eye.eu/)
     - [opendirectory-finder](https://ewasion.github.io/opendirectory-finder/)
     - [lumpySoft.com](https://lumpysoft.com/)
 - [Musgle](http://www.musgle.com/) Searches specifically for music
@@ -573,52 +567,28 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Mamont's open FTP Index](http://www.mmnt.net/) Browsable directory listing of publicly available FTP-sites
 
 ### DDL Search Engines and Crawlers
-- [ololo](https://ololo.to/) ololo is a video streaming link search engine.
-- [MegaSearch](http://megasearch.co) Search engine for finding content hosted on Mega and other premium hosts like OpenLoad
-- [VideoSpider](https://videospider.in/) VideoSpider crawls various websites and search engines to find movie and TV episode streaming links
 - [Orion](https://orionoid.com/) :star2: Orion is a service that indexes metadata and links from a variety of public websites and networks, including torrent, Usenet, and hoster indexes.
-- [Alluc](https://w1.alluc.uno/) Search engine with over 80 million streaming-links from over 700 VOD services, video hosters, and file-hosters
-- [OD-Database](https://od-db.the-eye.eu/) Database of searchable open directories curated by The-Eye.eu
-- [IPLIVE](https://iplive.club/) DDL search engine
 - [SoftArchive](https://sanet.st/full/) SoftArchive or SA is a scene release website, more known for new releases of software, games, music, movies, and eBooks.
 
 ### DDL Link Sites
 - [/r/ZippyShare](https://www.reddit.com/r/ZippyShare) DDL links hosted on ZippyShare
 - [DirtyWarez Forum](https://forum.dirtywarez.com/) Popular warez forum with films, TV shows, ebooks, anime, games, and more
-- [snahp.it](https://snahp.it/) :star2: replaced /r/megalinks
-- [BlackPearl.biz](https://blackpearl.biz/) Drop-in replacement for snahp.it while their registrations remain closed
 - [hdencode](https://hdencode.com/)
 - [WarezForums](https://warezforums.com/) Warez forum with films, TV shows, ebooks, anime, games, and more.
-- [Movies "R" Us](https://moviesrus.tk) The newest movies in 1080p. Available with DDL through MediaFire and streaming through AnonFile.
-- [Movie Glide](https://www.movieglide.com/)
 - [Release BB](http://rlsbb.ru)
 - [DDLValley](https://www.ddlvalley.me/) DDL links for Movies, Games, Tv Shows, Apps, Ebooks and Music.
 - [AdiT-HD](http://adit-hd.com/) direct download site
-- [TwoDDL](http://2ddl.ws) Direct download links
 - [RapidMoviez](http://rmz.cr/)
 - [SceneSource](https://scnsrc.me/) WordPress powered website dedicated to bringing you the latest info on new scene releases
-- [MkvCage](https://www.mkvcage.ws/)
-- [MovieFiles](https://moviefiles.org/) Direct download search engine which generates Google Drive links
-- [IceFilms.info](https://www.icefilms.info/) Another DDL site with TV and movie links on FileUpload, GoUnlimited, Filecandy, and more
 - [DownArchive](http://downarchive.org/) DDL blog with premium links on a number of hosts. Lots of software
 - [PSARips](https://psarips.com/) Popular site for movies and TV shows, includes torrent files
 - [DeeJayPirate's Pastebin](https://pastebin.com/u/DeeJayPirate) Pastebin user who uploads premium links for TV shows
-- [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc.
-- [Moviesleak](https://moviesleak.net/)
-- [Dospelis](https://www.dospelis.net) Spanish DDL indexer
-- [movidy](https://movidy.co) Links for movies and shows in Spanish
-- [Vidics](https://www.vidics.to/)
-- [watchepisodeseries](https://watchepisodeseries.bypassed.wtf/)
-- [watchtvseries](http://watchtvseries.unblckd.club/)
+- [AvaxHome](https://avxhm.se) Another DDL site with eBooks, TV, movies, magazines, software, comics, newspapers, games, graphics, etc
 - [DownTurk](https://www.downturk.net/)
 - [ScnLog](https://scnlog.me/)
 - [filewarez.tv](https://filewarez.tv/) Invite-only, hosts both Mega and Google Drive links for TV shows
 - [Movie-blog.org](http://movie-blog.sx/) German site for movies
-- [Movieworld.to](http://movieworld.to/) Another German site for movies
-- [DDL-Warez](https://ddl-warez.to/) German site for movies, shows, books and games
-- [DDL-Music](https://ddl-music.to/) German site for music
 - [AppNee Freeware Group](https://appnee.com/) Massive DDL site, eBooks, Programs, Games, Operating Systems, etc.
-- [480mkv](http://480mkv.com/) 480p DDL for TV Shows
 - [FilmRls](https://filmrls.com/) DDL site that generally features quality previews of video content
 - [Tinymkv](https://tinymkv.xyz/) High quality small size movies/tv shows. It also does high quality HEVC movies.
 
