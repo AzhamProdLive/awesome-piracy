@@ -295,7 +295,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [AlphaRatio ](https://alpharatio.cc) (AR) :star2: A good starter tracker with lots of freeleech content.
 - [AnimeBytes](https://animebytes.tv/) (AB) community centralized around Japanese media, including anime, manga, and music
 - [Audionews](https://audionews.org/) (AN) Private torrent tracker for music production audio. (DJ apps, audio editor, DAW apps, etc) Open signups on the 1st-2nd every month.
-- [Awesome HD](https://awesome-hd.me/) (AHD) Awesome-HD is a private tracker for quality enthusiasts.
 - [BakaBT](https://bakabt.me/) (BBT) a torrent tracker which specializes in serving anime fans
 - [Bibliotik](https://bibliotik.me/) (BI) Popular ebooks/audiobooks private tracker
 - [Bitspyder](http://bitspyder.net/) (BS) Bitspyder is an educational torrent site devoted to e-Learning content such as e-Books, video courses, and audiobooks.
@@ -303,14 +302,11 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [CGPeers](https://www.cgpeers.com/) (CGP) CGPeers is a private torrent tracker for all things computer graphics: tutorials, graphics software, 3D, visual effects, design, and computer-assisted art.
 - [Filelist](https://filelist.io/) (FL) Large Romanian general tracker with mostly English content. No RAR files allowed. (Scene torrents are unrared, and then allowed.)
 - [GazelleGames](https://gazellegames.net/login.php) (GGn) Currently the largest private tracker for games.
-- [HD4Free](https://hd4.xyz) (HD4F) HD4Free is a general HD tracker with a good range of content. It is a ratioless tracker so it is great for beginners. Note that any adult content/porn is strictly prohibited there.
 - [HD-Forever](https://hdf.world/) (HD-F) HD-Forever is a French private tracker for HD movies.
 - [HD-Space](https://hd-space.org/) (HDS) HD-Space is a private torrent tracker hosting HD movies, TV shows, and music torrents. Good tracker for beginners.
 - [IPTorrents](https://iptorrents.com/) (IPT) Private tracker with movies, books, and more.
-- [JPopsuki](https://jpopsuki.eu/) (JPop) JPopsuki is a torrent tracker focused on Asian music.
 - [MyAnonaMouse](https://www.myanonamouse.net/) (MAM) Private E-Learning tracker with about 360 000 torrents including audiobooks, e-learning, musicology, and radio.
 - [MySpleen](http://www.myspleen.org/login.php) (MS) MySpleen is a private tracker which specialises in comedy, animation, and TV series.
-- [Nostalgic Torrents](https://nostalgic.is/) (NT) Private tracker for anime, comics/manga, documentaries, movies, TV - PRE 2013, TV - PRE 2009 With Original Commercials, etc. Also known as The-Archive and HeyNow.
 - [PassThePopcorn](https://passthepopcorn.me/) (PTP) ratio-based torrent tracker for movies
 - [PolishTracker](https://pte.nu/) (PT) PolishTracker is the oldest private Polish tracker existing to this day
 - [PolishSource](https://polishsource.cz/) (PS) PolishSource is a big private Polish ratio-less tracker
@@ -320,8 +316,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [TorrentLeech](https://torrentleech.org/) (TL) Well-known popular private tracker
 - [TVChaos UK](https://www.tvchaosuk.com/) (TVCUK) Private tracker for British television
 - [UHDBits](https://uhdbits.org/) (UHD) UHDBits is a Vietnamese private torrent tracker focused on HD movies and TV shows.
-- [WorldOfP2P](https://worldofp2p.net) (WOP) Private tracker for Movies, TV, and General.
-- [/PTG tracker manifesto](https://pastebin.com/thLgSkNE) List of private trackers
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
@@ -330,48 +324,35 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 #### Semi-Private Trackers
 - [ruTracker](https://rutracker.org/forum/index.php) :star2: RuTracker is a huge Russian torrent site with a thriving file-sharing community.
-- [Zamunda.net](http://zamunda.net) A Bulgarian tracker with English and Russian translations available.
 - [ArenaBG](https://arenabg.com/) A Bulgarian tracker with an English translation available.
 - [NoNaMe Club](https://nnmclub.to/) Russian semi-private tracker and forum
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
-#### Public Trackers
+#### Public Trackers;
 - [1337x](https://1337x.to/) 1337x is a torrent site that offers verified torrent downloads.
-- [ETTV](https://www.ettv.tv/) ETTV is a torrent site specific for movie torrents.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [KickAss Torrents](https://katcr.co/) Community-made reincarnation launched in 2016
 - [RARBG](https://rarbg.to/) :star2: Public tracker with its own release group
 - [YTS](https://yts.am/) Small-size HD movies from YIFY
 - [The Pirate Bay](https://thepiratebay.org/) Infamous torrent site which is somehow still running, blocked in most places but can be [accessed](https://piratebayblocked.com/) [via](https://cruzing.xyz/) [numerous](https://thepiratebay.vin/) [proxy](https://pirateproxy.life/) [sites](https://tpbproxy.online/)
-- [The Proxy Bay](https://proxybay.bz/) Can't access The Pirate Bay? Try one of these proxy sites.
 - [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Torrentz2](https://torrentz2.is/) A good replacement of the defunct Torrentz.eu [other](https://torrentsmirror.com/) [mirrors](https://torrentz.pl/)
-- [Zooqle](https://zooqle.com/) Zooqle is a relatively new torrent index providing a huge database of verified torrents.
 - [rutor](http://rutor.info/) Russian tracker
 - [GloTorrents](https://glodls.to/) Download Movies, TV, Games and Other Torrents Free
-- [BTDB](https://btdb.eu/) Large BitTorrent DHT search engine
 - [BTDigg](https://btdig.com/) BTDigg is a popular BitTorrent DHT search engine.
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
 - [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
-- [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
-- [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
 - [Pirateiro](http://pirateiro.com/) Pirateiro is a torrent index for Brazilian and Portuguese torrents.
 - [TorrentKing](https://torrentking.io/) Torrentking is a popular movie torrent site.
-- [moviemagnet](http://moviemagnet.co/) Verified torrents for movies.
 - [Zonatorrent](https://zonatorrent.tv/) Spanish tracker
 - [TorrentFunk](https://www.torrentfunk.com/) TorrentFunk is a torrent site providing verified torrents for all kinds of content.
-- [OTorrents](https://otorrents.com/) Yet another public torrent tracker
 - [Torlock](https://www.torlock.com/) Torlock is a torrent index and torrent search that helps to access the latest in TV series and movies.
 - [DIGBT](https://www.digbt.org/) DIGBT is a DHT torrent search engine.
-- [Torrent9](https://www.torrent9.ph/) French torrent search engine
 - [YggTorrent](https://yggtorrent.li/) French tracker and search engine (have a download/upload ratio limitation)
-- [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
-- [Music Torrent](http://music-torrent.net) General music tracker
-- [7torrents](https://www.7torrents.cc/) Fast, clean, ad-free, privacy-focused DHT search engine
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
