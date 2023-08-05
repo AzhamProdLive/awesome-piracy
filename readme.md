@@ -330,7 +330,6 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [MetalArea](https://metalarea.org/) Russian (someplaces english) tracker for obscure metal and dungeon synth.
 
 #### Public Trackers;
-- [1337x](https://1337x.to/) :star2: 1337x is a torrent site that offers verified torrent downloads.
 - [EZTV](https://eztv.ag/) EZTV is a torrent site for TV shows founded by TV-torrent distribution group EZTV.
 - [Isohunt2](https://isohunt2.net/) Clone of the original isoHunt torrent index and repository
 - [RARBG](https://rarbg.to/) Public tracker with its own release group
