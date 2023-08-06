@@ -72,9 +72,9 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [DDL Link Sites](#ddl-link-sites) ✔️
     - [Premium Link Generators](#premium-link-generators) ✔️
     - [Premium Link Hosts](#premium-link-hosts) ✔️
-    - [Open Directories](#open-directories)
-    - [Streaming Sites](#streaming-sites)
-        - [HD Streaming](#hd-streaming)
+    - [Open Directories](#open-directories) ✔️
+    - [Streaming Sites](#streaming-sites) ✔️
+        - [HD Streaming](#hd-streaming) ✔️
         - [Big Media Libraries](#big-media-libraries)
         - [TV](#tv)
         - [Anime](#anime)
@@ -615,10 +615,9 @@ premium services
 - [The Eye](https://the-eye.eu/public/) :star2: The Eye is a non-profit website dedicated to content archival and long-term preservation.
 - [The Holy Grail of Indexes](https://www.reddit.com/r/opendirectories/comments/75ya8g/the_holy_grail_of_indexes/) Posted by /u/shadow_hunter104
 - [36 GB of Flash Games](https://www.reddit.com/r/opendirectories/comments/902j1i/36_gb_of_flash_games_19k_files/) Posted by /u/blue_star_
-- [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more
+- [FileMasta](https://github.com/HerbL27/FileMasta) Search servers for video, music, books, software, games, subtitles and much more (DISCONTINUED)
 - [/r/opendirectories](https://www.reddit.com/r/opendirectories) Unprotected directories of pics, vids, music, software, and otherwise interesting files.
 - [opendirectories-bot](https://github.com/simon987/opendirectories-bot) Bot used on /r/opendirectories for analysing the contents of open directories posted on the subreddit
-- [Panelshow.club](http://panelshow.club/) Directory of panel show TV episodes from [/r/panelshow](https://www.reddit.com/r/panelshow)
 - [andesite](https://github.com/nektro/andesite) Easily manage access to your open directory through OAuth2
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories
 
@@ -626,28 +625,12 @@ premium services
 - [How To Stream Movies, TV, Anime & Sports Online](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/index) :star2: Huge list by /u/nbatman
 
 #### HD Streaming
-- [/r/MovieStreamingSites](https://www.reddit.com/r/MovieStreamingSites/) Reddit, random streaming sites
-- [HD MultiredditHD](https://www.reddit.com/user/nbatman/m/streaming2/) Alternate subreddit curated by /u/nbatman
-- [Best Free Streaming](https://www.bestfreestreaming.com/) Site that rates streaming services
-- [YMovies](https://ymovies.tv/) Unique design, HD server with additional hosts, nice speeds, YIFY and other releases (+ torrents)
-- [HDO](https://hdo.to/) Unique design, HD server with additional hosts, also country-specific films/series
 - [M4UFree.TV](http://m4ufree.tv/) Unique design, HD server with backup and additional hosts
 - [Movie123](http://movie123.club/) Unique design, HD server with Backup and additional hosts
 - [LookMovie](https://lookmovie.ag/) Unique design, HD server, very nice speeds (offers auto quality)
-- [AZMovies](https://azmovies.xyz/) Unique design, HD server with additional hosts, also on Reddit
 - [Streamlord](http://www.streamlord.com/) Unique design, HD server (subtitles)
-- [FlixGo](https://flixgo.net/) Unique design, HD server, very nice speeds
-- [Solarmovie](https://solarmoviez.ru/solar.html) Basic streaming site layout, HD server with additional hosts, Popular Site
-- [123Movies](https://123movies.website/) Basic streaming site layout, HD server with additional hosts. Previously HDFlix.
-- [Yes! Movies](https://yesmovies.to) Basic streaming site layout, HD server with additional hosts
-- [Spacemov](http://spacemov.io/) Basic streaming site layout, HD server, only certain films have additional hosts
-- [HDOnline](https://www1.hdonline.eu) Basic streaming site layout, HD server with additional hosts
-- [#1 Movies Website](https://www1.1movies.is) Basic streaming site layout, HD server with additional hosts
-- [CMoviesHD](https://www2.cmovieshd.bz) Basic streaming site layout, HD server with additional hosts
-- [Vidcloud](https://vidcloud.icu/) Basic streaming site layout, HD server with additional hosts
-- [Series9](https://www2.series9.io/) Unique design, HD server with additional hosts
-- [Soap2day](https://www.soap2day.com/) Unique design, very nice speeds, HD server with subtitles.
-- [Best-movies.watch](https://best-movies.watch/) Unique design, more than 19000 available
+- [Yes! Movies](https://yesmovies.ag) Basic streaming site layout, HD server with additional hosts
+- [#1 Movies Website](https://www1.1movies.life) Basic streaming site layout, HD server with additional hosts
 
 #### Big Media Libraries
 - [Streaming Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) Reddit with all types of Streaming Links
