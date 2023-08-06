@@ -70,7 +70,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [FTP Indexers](#ftp-indexers) ✔️
     - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers) ✔️
     - [DDL Link Sites](#ddl-link-sites) ✔️
-    - [Premium Link Generators](#premium-link-generators)
+    - [Premium Link Generators](#premium-link-generators) ✔️
     - [Premium Link Hosts](#premium-link-hosts)
     - [Open Directories](#open-directories)
     - [Streaming Sites](#streaming-sites)
@@ -598,20 +598,16 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 premium services
 - [Premiumizer](https://github.com/piejanssens/premiumizer) Premiumizer is a download management tool for premiumize.me cloud downloads.
 - [OffCloud](https://offcloud.com/?=85a8b709) A simple, elegant and intuitive SaaS to retrieve any data from the cloud.
-- [Reevown](https://reevown.com/) A free download service with which you can perform premium downloads.
+- [LeechPremium](https://leechpremium.net/keep2share) A free download service with which you can perform premium downloads.
 
 ### Premium Link Hosts
 - [File sharing table](https://nafanz.github.io/) Regularly updated table of information about file hosts.
-- [Mega](https://mega.nz/) :star2:
-- [OpenLoad](https://openload.co/)
+- [Mega](https://mega.nz/) 
 - [RapidGator](https://rapidgator.net/)
-- [4shared](https://www.4shared.com/)
-- [Mediafire](https://www.mediafire.com/)
+- [4shared](https://www.4shared.com/) :star2:
+- [Mediafire](https://www.mediafire.com/) 
 - [Sendspace](https://www.sendspace.com/)
-- [Uploaded](https://uploaded.net/)
-- [Zippyshare](https://www.zippyshare.com/)
 - [NitroFlare](http://nitroflare.net/)
-- [PutLocker](https://www5.putlockertv.to/)
 
 ### Open Directories
 - [httpdirfs](https://github.com/fangfufu/httpdirfs) A filesystem which allows you to mount HTTP directory listings
