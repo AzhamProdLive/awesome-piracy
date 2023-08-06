@@ -71,7 +71,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
     - [DDL Search Engines and Crawlers](#ddl-search-engines-and-crawlers) ✔️
     - [DDL Link Sites](#ddl-link-sites) ✔️
     - [Premium Link Generators](#premium-link-generators) ✔️
-    - [Premium Link Hosts](#premium-link-hosts)
+    - [Premium Link Hosts](#premium-link-hosts) ✔️
     - [Open Directories](#open-directories)
     - [Streaming Sites](#streaming-sites)
         - [HD Streaming](#hd-streaming)
