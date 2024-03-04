@@ -909,7 +909,6 @@ premium services
 - ["A simple script for easily downloading emulator.games roms"](https://www.reddit.com/r/Piracy/comments/aytutr/a_simple_script_for_easily_downloading/) Reddit guide and userscript created by /u/estel_smith to allow you to easily download ROMs from Emulator.Games.
 - [3DSISO](http://www.3dsiso.com/) Nintendo 3DS ROMs downloads forum.
 - [3DSCIA.com](https://www.3dscia.com/) DDL links for 3DS CIA files.
-- [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
 
 ### Console Games
 - [/r/PkgLinks](https://www.reddit.com/r/PkgLinks/) A place to share working Playstation 4 PKGs
